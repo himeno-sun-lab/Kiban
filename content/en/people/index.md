@@ -23,7 +23,3 @@ showBreadcrumbs: false
 - [Binghua LI](https://tuat-novice.github.io/vhua.github.io/) <kbd>[TUAT](https://www.sip.tuat.ac.jp/)</kbd> -->
 
 <br>
-
-{{< button href="mailto:himeno.sun@juntendo.ac.jp" target="_self" >}}
-Join us!
-{{< /button >}}
