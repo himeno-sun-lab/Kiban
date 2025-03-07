@@ -19,7 +19,10 @@ showBreadcrumbs: false
 - **Yiqi LIU** <kbd>Juntendo Univ.</kbd>
 - **Minghao WANG** <kbd>Juntendo Univ.</kbd>
 
-<!-- ## Invited Researchers
-- [Binghua LI](https://tuat-novice.github.io/vhua.github.io/) <kbd>[TUAT](https://www.sip.tuat.ac.jp/)</kbd> -->
-
 <br>
+
+<div style="text-align: center">
+{{< button href="mailto:himeno.sun@juntendo.ac.jp" target="_self" >}}
+Join us!
+{{< /button >}}
+</div>
