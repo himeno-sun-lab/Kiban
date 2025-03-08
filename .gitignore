@@ -1,3 +1,5 @@
 .DS_Store
 !.github/
 !.gitsubmodules
+public/
+resources/
